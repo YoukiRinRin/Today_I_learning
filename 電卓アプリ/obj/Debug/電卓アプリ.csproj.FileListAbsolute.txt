@@ -1,0 +1,9 @@
+W:\04_LearningSpace\C#\電卓アプリ\bin\Debug\電卓アプリ.exe.config
+W:\04_LearningSpace\C#\電卓アプリ\bin\Debug\電卓アプリ.exe
+W:\04_LearningSpace\C#\電卓アプリ\bin\Debug\電卓アプリ.pdb
+W:\04_LearningSpace\C#\電卓アプリ\obj\Debug\電卓アプリ.csprojAssemblyReference.cache
+W:\04_LearningSpace\C#\電卓アプリ\obj\Debug\電卓アプリ.Properties.Resources.resources
+W:\04_LearningSpace\C#\電卓アプリ\obj\Debug\電卓アプリ.csproj.GenerateResource.cache
+W:\04_LearningSpace\C#\電卓アプリ\obj\Debug\電卓アプリ.exe
+W:\04_LearningSpace\C#\電卓アプリ\obj\Debug\電卓アプリ.pdb
+W:\04_LearningSpace\C#\電卓アプリ\obj\Debug\電卓アプリ.電卓アプリ.resources
