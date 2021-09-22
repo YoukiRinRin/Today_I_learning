@@ -33,8 +33,8 @@
 
 <?php
 $dsn      = 'mysql:dbname=test;host=localhost';
-$user     = 'youki';
-$password = 'ykif5515';
+$user     = 'test';
+$password = 'test';
 
 $a = 'unko';
 echo'<p>'.$a.'</p>';
