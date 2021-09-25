@@ -1,6 +1,6 @@
-flg_retry = 0
+count_retry = 0
 while(1):
-    if flg_retry == 0:
+    if count_retry == 0:
         print('最強AI「吾輩は最強じゃんけんAIだ！\n        吾輩に勝てる者はいない！!!」')
         while(1):
             inp_sele = input('最強AI「勝負するか？」；Y/N\n')
@@ -12,8 +12,21 @@ while(1):
                 exit()
             else:
                 print('最強AI「正しい値を入力するがよい・・・そうしないと吾輩と対戦できないぞ・・」')
+    elif count_retry ==10 :
+        print('最強AI「10回程度じゃやられたりぬようだな・・・・\n        打ちのめしてくれる！！！')
+    elif count_retry == 50:
+        print('最強AI「50回目か・・・お前なかなかなかなかしつこいな・・・・\n        まぁよい・・・打ちのめしてくれる！！！')
+    elif count_retry == 100:
+        print('最強AI「100回目か・・・そろそろ飽きないのか・・・・\n        まぁよい・・・打ちのめしてくれる！！！')
+    elif count_retry == 1000:
+        print('最強AI「1000回目か・・・正気じゃないぞ・・・・\n        まぁよい・・・打ちのめしてくれる！！！')
+    elif count_retry == 10000:
+        print('最強AI「10000回目か・・・気がくるってやがる・・・・\n        まぁよい・・・打ちのめしてくれる！！！')
+    elif count_retry == 100000:
+        print('最強AI「100000回目か・・・も、もう勘弁してくれー！・・・・\n        まぁよい・・・打ちのめしてくれる！！！')
     else:
-        print('最強AI「何度やっても同じことよ・・・')            
+        print('最強AI「何度やっても同じことよ・・・')
+                
 
     print('        それではいくぞ・・・じゃーん、けーん・・・」')
 
