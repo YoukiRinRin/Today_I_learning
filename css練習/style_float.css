@@ -1,17 +1,43 @@
 .yellow{
-    background-color: yellow;
-    width: 200px;
-    height: 250px;
+ background-color: yellow;
+ width: 200px;
+ height: 250px;
+ float: left;
 }
-
 .green{
-    background-color:green;
-    width: 150px;
-    height: 100px; 
+ background-color: green;
+ width: 150px;
+ height: 100px;
+ float: left;
+}
+.pink{
+ background-color: pink;
+ width: 500px;
+ height: 80px;
+ clear:left
 }
 
-.pink{
-    background-color:pink;
-    width:500px;
-    height:80px;
+.list{
+    border:1px solid #CCC;
+    padding:10px;
+    overflow: hidden;
+    position: relative;
+}
+
+.list ul{
+    list-style: none outside none;
+    float:left;
+    margin: 0 0 0 0;
+    padding: 0;
+    position: relative;
+    left: 50%;
+}
+
+.list ul li{
+   
+    margin-right:5px;
+    padding:5px;
+    border: 1px solid #999;
+    position: relative;
+    left: -50%;
 }
