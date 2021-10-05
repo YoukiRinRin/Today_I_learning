@@ -1,0 +1,8 @@
+ .column ul{
+    list-style: none;
+    float:left;
+    border:solid;
+}
+.column li{
+    list-style: none; 
+}
