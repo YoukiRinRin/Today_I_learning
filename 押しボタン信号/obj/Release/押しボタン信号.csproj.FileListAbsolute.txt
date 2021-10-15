@@ -1,0 +1,8 @@
+W:\04_LearningSpace\C#\押しボタン信号\bin\Release\押しボタン信号.exe.config
+W:\04_LearningSpace\C#\押しボタン信号\bin\Release\押しボタン信号.exe
+W:\04_LearningSpace\C#\押しボタン信号\bin\Release\押しボタン信号.pdb
+W:\04_LearningSpace\C#\押しボタン信号\obj\Release\押しボタン信号.oshibutton.resources
+W:\04_LearningSpace\C#\押しボタン信号\obj\Release\押しボタン信号.Properties.Resources.resources
+W:\04_LearningSpace\C#\押しボタン信号\obj\Release\押しボタン信号.csproj.GenerateResource.cache
+W:\04_LearningSpace\C#\押しボタン信号\obj\Release\押しボタン信号.exe
+W:\04_LearningSpace\C#\押しボタン信号\obj\Release\押しボタン信号.pdb
