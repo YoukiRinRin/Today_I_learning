@@ -1,0 +1,4 @@
+﻿  バッティングゲーム.cpp
+W:\boost_1_77_0\boost\progress.hpp(23): message : This header is deprecated. Use the facilities in <boost/timer/timer.hpp> or <boost/timer/progress_display.hpp> instead.
+W:\boost_1_77_0\boost\timer.hpp(21): message : This header is deprecated. Use the facilities in <boost/timer/timer.hpp> instead.
+W:\04_LearningSpace\C++\バッティングゲーム\バッティングゲーム.cpp(13,22): error C2676: 二項演算子 '++': 'boost::progress_display' は、この演算子または定義済の演算子に適切な型への変換の定義を行いません。(新しい動作; ヘルプを参照)
